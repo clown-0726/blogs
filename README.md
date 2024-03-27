@@ -58,3 +58,4 @@
 
 - [2024-02-20] [从动态/静态语言角度理解接口](posts/20240220-why-interface-from-angle-of-dynamic-static-lang.md)
 - [2024-03-13] [如何在 Azure 上备份 windows 虚拟机并恢复](posts/20240313-how-to-restore-windows-vm-in-azure.md)
+- [2024-03-26] [golang 在多线程中避免 CPU 指令重排](posts/20240326-golang-cpu-reordering.md)
