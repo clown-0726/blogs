@@ -43,7 +43,7 @@
 - [2022-07-10] [在 AWS lambda 上部署 docker 应用](posts/20220710-deploy-aws-lambda-with-docker.md)
 - [2022-09-29] [JWT(Json Web Token) 的原理](posts/20220929-principle-of-jwt-token.md)
 - [2022-10-19] [AWS SQS, Boto3 and Python：带示例的完整指南](posts/20221019-aws-sqs-boto3-python.md)
-- [2022-11-07] [Docker - 发送 Container 日志到 AWS CloudWatch](posts/20221107-docker_send_container_logs_to_aws_cloudwatch.md)
+- [2022-11-07] [Docker - 发送 Container 日志到 AWS CloudWatch](posts/20221107-docker-send-container-logs-to-aws-cloudwatch.md)
 - [2023-09-12] [k8s 维护记录](posts/20230912-k8s-mantain-records.md)
 
 #### 2023
@@ -60,3 +60,4 @@
 - [2024-03-13] [如何在 Azure 上备份 windows 虚拟机并恢复](posts/20240313-how-to-restore-windows-vm-in-azure.md)
 - [2024-03-26] [golang 在多线程中避免 CPU 指令重排](posts/20240326-golang-cpu-reordering.md)
 - [2024-04-08] [[翻译] 在 CI 或测试环境中使用 Docker-in-Docker，三思而后行](posts/20240408-using-docker-in-docker.md)
+- [2024-06-06] [Python logging 模块详解](posts/20240606-the-detailed-usage-of-python-logging.md)
